@@ -1,0 +1,1 @@
+This repository is for Shell, basics, containing the folder basics
