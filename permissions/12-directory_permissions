@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chmod my_dir 751
+mkdir 751 /holbertonschool-shell/permissions/my_dir
