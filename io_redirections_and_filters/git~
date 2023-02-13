@@ -1,0 +1,4 @@
+#!/bin/bash
+gi add .
+git commit -m 'Git script'
+git push
